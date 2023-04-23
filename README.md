@@ -18,4 +18,4 @@ Por enquanto meu foco pro futuro é me aprofundar no Javascript ou no Phytom. Te
 
 
 
-<b>Obrigado por dar uma passadinha aqui no meu perfil ;D</b>
+<b>Obrigado por dar uma passadinha aqui ;D</b>
