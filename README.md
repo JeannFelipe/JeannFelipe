@@ -1,8 +1,8 @@
 # Opa, tudo bom? 👋
 <div>
   <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeannFelipe&show_icons=true&theme=tokyonight&icon_color=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeannFelipe&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeannFelipe&show_icons=true&theme=tokyonight&icon_color=white&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeannFelipe&layout=compact&theme=tokyonight&count_private=true"/>
   </a>
 </div>
 
