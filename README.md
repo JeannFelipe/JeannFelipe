@@ -2,7 +2,7 @@
 <div>
   <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeannFelipe&show_icons=true&theme=tokyonight&icon_color=white"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeannFelipe&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeannFelipe&layout=compact&theme=tokyonight&count_private=true"/>
   </a>
 </div>
 
