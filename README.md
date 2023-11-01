@@ -6,9 +6,7 @@ Meu primeiro contato com uma IDE (Sublime) foi aos 14 anos por causa do meu prim
 ## 🔭 Hoje em dia
 Atualmente trabalho pra UniCBE uma instituição de ensino. Me considero um full-stack pois oque eu mais fiz nessa empresa foram landing pages e uma outra página com login para ver quais pessoas se inscreveram. Essas são as tecnologias que eu estou usando: HTML, CSS, Javascript e PHP.
 ## 🌱 Estudando
-Estou tentando aprender um pouco de tudo no momento.
-<br/>
-Por enquanto meu foco pro futuro é me aprofundar no Javascript ou no Phytom. Tenho uma dúvida gigante entre essas duas :c
+Estou me aprofundando no React e logo após me apronfundar em node e depois quem sabe um espaço para aprender React Native
 
 
 
